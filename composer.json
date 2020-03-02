@@ -1,0 +1,6 @@
+{
+    "require": {
+        "composer/composer": "^1.9",
+        "monolog/monolog": "^2.0"
+    }
+}
